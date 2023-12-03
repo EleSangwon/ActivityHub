@@ -25,6 +25,7 @@
 ```
 * [INFCON2023 다시보기](https://www.inflearn.com/course/%EC%9D%B8%ED%94%84%EC%BD%982023-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0)
 
+* [EKS 비용절감 전략: 회사에서 실현한 사이드 프로젝트](https://www.youtube.com/watch?app=desktop&v=UGT0HHx4Hl4&pp=ygUTI-uUlOyngO2EuOywveyekeusvA%3D%3D)
 
 ## 2023.11
 ```
