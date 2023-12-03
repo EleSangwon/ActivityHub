@@ -25,16 +25,18 @@
 ```
 * [INFCON2023 다시보기](https://www.inflearn.com/course/%EC%9D%B8%ED%94%84%EC%BD%982023-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0)
 
-## 2023.10 
-```
-10월 오픈 예정인, 작업 진행중
-```
 
 ## 2023.11
+```
+[ 2023.11.27 Inflearn 온라인 강의 개설 ]
+* 실전! Github Actions으로 CI/CD 시작하기 
 
+[ 2023 AWS ReInvent 참여 ]
+```
+* [실전! Github Actions으로 CI/CD 시작하기](https://www.inflearn.com/course/%EC%8B%A4%EC%A0%84-github-actions-ci-cd-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 
 ## 2023.12
 ```
-주니어 데브옵스 엔지니어의 회고를 주제로 발표 예정
+[ 2023 AWS ReInvent 참여 ]
 ```
 
