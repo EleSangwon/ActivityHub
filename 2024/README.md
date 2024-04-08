@@ -19,6 +19,8 @@ DORA : DevOps Research and Assessments
 EKS 환경에서 DORA Metrics 기반 DevOps 생산성 향상 방법
 ```
 https://www.meetup.com/awskrug/events/299883105
+<img width="750" alt="image" src="https://github.com/EleSangwon/ActivityHub/assets/50174803/97d86c41-4dd5-4040-8d92-f69193ed22a7">
+
 
 ## 2024.05
 ```
@@ -26,3 +28,4 @@ https://www.meetup.com/awskrug/events/299883105
 
 Amazon EKS와 Bedrock을 활용한 DevOps 혁신
 ```
+<img width="1579" alt="image" src="https://github.com/EleSangwon/ActivityHub/assets/50174803/cfc67e7f-a630-4ab4-aec2-f5873db45896">
